@@ -7,6 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
+    puts "What would you like on your sandwhich"
   # your code here!
 end
 
